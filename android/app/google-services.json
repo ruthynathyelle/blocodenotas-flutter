@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649801080753",
+    "project_id": "blocodenotas-firebase",
+    "storage_bucket": "blocodenotas-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649801080753:android:93bb18256a586df7cfa790",
+        "android_client_info": {
+          "package_name": "blocodenotas.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1wPQAxBdgqKH44YFq4w8G0kyPM65KCIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
